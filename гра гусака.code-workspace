@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "гра гусака",
+			"path": "."
+		},
+		{
+			"path": "../resume project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "resume project"
+	}
+}
